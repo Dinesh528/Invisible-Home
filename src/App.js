@@ -1,13 +1,14 @@
 import React from 'react';
 import Navbar from './components/Layout/Navbar';
+import Footer from './components/Layout/Footer';
 import './App.css';
 
 function App() {
   return (
-    <div className="fluid-container">
+    <div className="">
       <Navbar/>
 
-      <div></div>
+      <Footer/>
 
     </div>
   );

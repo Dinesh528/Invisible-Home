@@ -23,5 +23,20 @@ a{
 .nav-item a{
   font-family: "FoundersGrotesk-Medium";
   font-size:20px;
-  font-style: bold;
+  color: #515050;
+  letter-spacing: 0.08px;
+}
+
+.navbar-nav > li{
+  padding-left:25px;
+  padding-right:25px;
+}
+
+footer {
+  position: fixed;
+  height: fit-content;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: #005E6E;
 }
