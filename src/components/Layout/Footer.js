@@ -12,20 +12,20 @@ function Footer() {
                     <hr class="clearfix w-100 d-md-none pb-3"/>
                         <div class="col-md-3 mb-md-0 mb-3">
                             <h5 class="text-uppercase">Follow us on</h5>
-                            <ul class="list-unstyled">
+                            <ul class="list-unstyled d-flex flex-row">
                                 <li>
                                     <a href="#!">Facebook </a>
-                                </li>
+                                </li>&nbsp;
                                 <li>
                                     <a href="#!">Instagram </a>
-                                </li>
+                                </li>&nbsp;
                                 <li>
                                     <a href="#!">Twitter</a>
                                 </li>
                             
                             </ul>
                         </div>
-                        <div className="col-md-3 mb-md-0 mb-3">
+                        <div className="col-md-3 mb-md-0 mb-3 d-none d-sm-block">
                             <h5 className="text-uppercase">Contact us</h5>
                             <p>Name: xxxxx <br/>
                                 Phone: xxxxx <br/>
